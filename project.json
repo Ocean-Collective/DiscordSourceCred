@@ -1,10 +1,10 @@
 [
   {
     "type": "sourcecred/project",
-    "version": "0.5.0"
+    "version": "0.4.0"
   },
   {
-    "id": "@ocean-collective",
+    "id": "@covidathon",
     "discord": {
       "guildId": "689463948009013290",
       "reactionWeights": {
@@ -14,24 +14,6 @@
         "💯": 1,
         "🙏": 1
       }
-    },
-    "identities":[
-       {"username": "laurent", "aliases": ["discourse/lrt"]},
-       {"username": "simon", "aliases": ["discourse/simon"]},
-       {"username": "santteegt", "aliases": ["github/santteegt", "discourse/santteegt"]},
-       {"username": "mathew", "aliases": ["github/OceanCollective", "discourse/mathew"]},
-       {"username": "robin", "aliases": ["github/w1kke", "discourse/robin"]},
-       {"username": "nima", "aliases": ["discourse/nima"]}
-    ],
-    "repoIds": [
-       {
-          "name":"ocean-collective.github.io",
-          "owner":"Ocean-Collective"
-       },
-       {
-          "name":"cred",
-          "owner":"Ocean-Collective"
-       }
-    ]
+    }
   }
 ]
