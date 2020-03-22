@@ -1,1 +1,1 @@
-# CoVIDathon Cred-Scoring
+# CoVIDathon Cred Scores
