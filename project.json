@@ -4,7 +4,7 @@
     "version": "0.4.0"
   },
   {
-    "id": "@ocean-protocol",
+    "id": "@covidathon",
     "discord": {
       "guildId": "689463948009013290",
       "reactionWeights": {
@@ -16,6 +16,16 @@
       }
     },
     "identities":[
+    ],
+    "repoIds": [
+       {
+          "name":"ocean-collective.github.io",
+          "owner":"Ocean-Collective"
+       },
+       {
+          "name":"TheSource",
+          "owner":"Ocean-Collective"
+       }
     ]
   }
 ]
