@@ -1038,6 +1038,36 @@
                     0.005944718636704833
                 ],
                 "totalCred": 0.005944718636704833
+            },
+            {
+                "address": [
+                    "sourcecred",
+                    "discord",
+                    "MEMBER",
+                    "user",
+                    "418322747827945473"
+                ],
+                "intervalCred": [
+                    0,
+                    0,
+                    0
+                ],
+                "totalCred": 0
+            },
+            {
+                "address": [
+                    "sourcecred",
+                    "discord",
+                    "MEMBER",
+                    "user",
+                    "695420777771565083"
+                ],
+                "intervalCred": [
+                    0,
+                    0,
+                    0
+                ],
+                "totalCred": 0
             }
         ]
     }
