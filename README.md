@@ -1,1 +1,1 @@
-# CoVIDathon Cred Scores
+# Ocean Discord Cred Scores
